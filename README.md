@@ -1,2 +1,3 @@
 # robux-to-dollars-converter-devex
-A robux to dollars or dollars to robux converter made for calculating DEV EX payments.
+
+Convert robux to dollars or dollars to robux to calculate your DevEx payment in roblox.
